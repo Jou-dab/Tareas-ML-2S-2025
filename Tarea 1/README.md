@@ -1,4 +1,4 @@
-# Tareas-1
+# Tarea-1
 
 # Análisis Exploratorio de Datos de un dataset con datos del clima.
 

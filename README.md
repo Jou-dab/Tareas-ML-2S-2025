@@ -1,2 +1,2 @@
 # Tareas-ML-2S-2025
-Todas las tareas del curso AST332 de la UTFSM
+Todas las tareas/Proyectos del curso AST332 de la UTFSM

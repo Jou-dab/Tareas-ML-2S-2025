@@ -6,5 +6,19 @@ Predecir los sismos de gran magnitud con una ventana suficiente para activar las
 
 En este proyecto trabajamos con el dataset de Kaggle [Significant Earthquakes, 1965-2016](https://example.com](https://www.kaggle.com/datasets/usgs/earthquake-database/code)), intentado encontrar una forma de predecir la magnitud de un terremoto en función de su posición geográfica (latitud, longitud) y su profundidad.
 
+## Pipeline:
+
+### Eda
+Revisión de distribuciones, datos faltantes, manejor de outliers, etc.
+
+### Modelos
+* RandomForestRegressor: Testeado con parámetros básicos y también con hiperparámetros optimizados mediante GridSearch
+* kNN : Testeado de la misma forma que el RamdomForest
+
+### Métricas de evaluación
+* MAE
+* MSE
+* RMSE
+* $R^2$
 
 

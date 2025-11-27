@@ -5,3 +5,4 @@ Predecir los sismos de gran magnitud con una ventana suficiente para activar las
 
 En este proyecto trabajamos con el dataset de Kaggle [a]([https://example.com](https://www.kaggle.com/datasets/usgs/earthquake-database/code))
 
+[aquí](https://www.kaggle.com/c/higgs-boson).

@@ -3,5 +3,5 @@ El cinturón de fuego del Pacífico es una de las zonas de subducción más acti
 
 Predecir los sismos de gran magnitud con una ventana suficiente para activar las alertas ciudadanas es un desafío persistente para los centros simológicos, normalmente la ventana es de unos segundos o a lo más unos pocos minutos, por lo que poder desarrollar herramientas que amplien la ventana pueden ser muy beneficiosas para la prevención de tragedias y daños.
 
-En este proyecto analizamos el dataset Significant Earthquakes, \href{https://www.kaggle.com/datasets/usgs/earthquake-database/code}{1965-2016}
+En este proyecto trabajamos con el dataset ["Significant Earthquakes, 1965-2016"]([https://example.com](https://www.kaggle.com/datasets/usgs/earthquake-database/code))
 

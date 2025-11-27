@@ -9,7 +9,7 @@ En este proyecto trabajamos con el dataset de Kaggle [Significant Earthquakes, 1
 ## Pipeline:
 
 ### Eda
-Revisión de distribuciones, datos faltantes, manejor de outliers, etc.
+Revisión de distribuciones, datos faltantes, manejor de outliers, filtrado de datos, etc.
 
 ### Modelos
 * RandomForestRegressor: Testeado con parámetros básicos y también con hiperparámetros optimizados mediante GridSearch
@@ -20,5 +20,13 @@ Revisión de distribuciones, datos faltantes, manejor de outliers, etc.
 * MSE
 * RMSE
 * $R^2$
+
+### Conclusiones
+Analizando las curvas de aprendizaje de ambos modelos y comparando los resultados de las distintas métricas, como era de esperarse, los modelos de regresión no lograron predecir adecuadamente la magnitud basandose en las características utilizadas.
+
+### Contacto
+- justine.haefele@usm.cl
+- javiera.rojasma@sansano.usm.cl
+- joseph.dabre@usm.cl
 
 
